@@ -1,2 +1,2 @@
-RMI-for-Cpp
+RMIClient-for-Cpp
 ===========
